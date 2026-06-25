@@ -1,8 +1,26 @@
 [
   {
+    "date": "2026-06-24",
+    "title": "Colombia 1-0 Congo DR: World Cup Match Report",
+    "desc": "Colombia  Congo DR \u2014 GROUP_K",
+    "fixture_id": 537406
+  },
+  {
     "date": "2026-06-23",
     "title": "Portugal 5-0 Uzbekistan: World Cup Match Report",
     "desc": "Portugal  Uzbekistan \u2014 GROUP_K",
     "fixture_id": 537405
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Panama 0-1 Croatia: World Cup Match Report",
+    "desc": "Panama  Croatia \u2014 GROUP_L",
+    "fixture_id": 537412
+  },
+  {
+    "date": "2026-06-12",
+    "title": "Canada 1-1 Bosnia-Herzegovina: World Cup Match Report",
+    "desc": "Canada  Bosnia-Herzegovina \u2014 GROUP_B",
+    "fixture_id": 537333
   }
 ]

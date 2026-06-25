@@ -580,74 +580,74 @@
     {
       "fixture_id": 537337,
       "date": "2026-06-24T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "home_team": "Switzerland",
       "away_team": "Canada",
-      "home_score": null,
-      "away_score": null
+      "home_score": 2,
+      "away_score": 1
     },
     {
       "fixture_id": 537338,
       "date": "2026-06-24T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "home_team": "Bosnia-Herzegovina",
       "away_team": "Qatar",
-      "home_score": null,
-      "away_score": null
+      "home_score": 3,
+      "away_score": 1
     },
     {
       "fixture_id": 537344,
       "date": "2026-06-24T22:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "home_team": "Morocco",
       "away_team": "Haiti",
-      "home_score": null,
-      "away_score": null
+      "home_score": 4,
+      "away_score": 2
     },
     {
       "fixture_id": 537343,
       "date": "2026-06-24T22:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "home_team": "Scotland",
       "away_team": "Brazil",
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 3
     },
     {
       "fixture_id": 537331,
       "date": "2026-06-25T01:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "home_team": "Czechia",
       "away_team": "Mexico",
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 3
     },
     {
       "fixture_id": 537332,
       "date": "2026-06-25T01:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "home_team": "South Africa",
       "away_team": "South Korea",
-      "home_score": null,
-      "away_score": null
+      "home_score": 1,
+      "away_score": 0
     },
     {
       "fixture_id": 537355,
@@ -1257,50 +1257,50 @@
         {
           "position": 1,
           "team": "Mexico",
-          "played": 2,
-          "won": 2,
+          "played": 3,
+          "won": 3,
           "draw": 0,
           "lost": 0,
-          "points": 6,
-          "goals_for": 3,
+          "points": 9,
+          "goals_for": 6,
           "goals_against": 0,
-          "goal_difference": 3
+          "goal_difference": 6
         },
         {
           "position": 2,
-          "team": "South Korea",
-          "played": 2,
+          "team": "South Africa",
+          "played": 3,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
-          "points": 3,
+          "points": 4,
           "goals_for": 2,
-          "goals_against": 2,
-          "goal_difference": 0
+          "goals_against": 3,
+          "goal_difference": -1
         },
         {
           "position": 3,
-          "team": "Czechia",
-          "played": 2,
-          "won": 0,
-          "draw": 1,
-          "lost": 1,
-          "points": 1,
+          "team": "South Korea",
+          "played": 3,
+          "won": 1,
+          "draw": 0,
+          "lost": 2,
+          "points": 3,
           "goals_for": 2,
           "goals_against": 3,
           "goal_difference": -1
         },
         {
           "position": 4,
-          "team": "South Africa",
-          "played": 2,
+          "team": "Czechia",
+          "played": 3,
           "won": 0,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "points": 1,
-          "goals_for": 1,
-          "goals_against": 3,
-          "goal_difference": -2
+          "goals_for": 2,
+          "goals_against": 6,
+          "goal_difference": -4
         }
       ]
     },
@@ -1309,51 +1309,51 @@
       "table": [
         {
           "position": 1,
-          "team": "Canada",
-          "played": 2,
-          "won": 1,
+          "team": "Switzerland",
+          "played": 3,
+          "won": 2,
           "draw": 1,
           "lost": 0,
-          "points": 4,
+          "points": 7,
           "goals_for": 7,
-          "goals_against": 1,
-          "goal_difference": 6
+          "goals_against": 3,
+          "goal_difference": 4
         },
         {
           "position": 2,
-          "team": "Switzerland",
-          "played": 2,
+          "team": "Canada",
+          "played": 3,
           "won": 1,
           "draw": 1,
-          "lost": 0,
+          "lost": 1,
           "points": 4,
-          "goals_for": 5,
-          "goals_against": 2,
-          "goal_difference": 3
+          "goals_for": 8,
+          "goals_against": 3,
+          "goal_difference": 5
         },
         {
           "position": 3,
           "team": "Bosnia-Herzegovina",
-          "played": 2,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "draw": 1,
           "lost": 1,
-          "points": 1,
-          "goals_for": 2,
-          "goals_against": 5,
-          "goal_difference": -3
+          "points": 4,
+          "goals_for": 5,
+          "goals_against": 6,
+          "goal_difference": -1
         },
         {
           "position": 4,
           "team": "Qatar",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "points": 1,
-          "goals_for": 1,
-          "goals_against": 7,
-          "goal_difference": -6
+          "goals_for": 2,
+          "goals_against": 10,
+          "goal_difference": -8
         }
       ]
     },
@@ -1363,50 +1363,50 @@
         {
           "position": 1,
           "team": "Brazil",
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "draw": 1,
           "lost": 0,
-          "points": 4,
-          "goals_for": 4,
+          "points": 7,
+          "goals_for": 7,
           "goals_against": 1,
-          "goal_difference": 3
+          "goal_difference": 6
         },
         {
           "position": 2,
           "team": "Morocco",
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "draw": 1,
           "lost": 0,
-          "points": 4,
-          "goals_for": 2,
-          "goals_against": 1,
-          "goal_difference": 1
+          "points": 7,
+          "goals_for": 6,
+          "goals_against": 3,
+          "goal_difference": 3
         },
         {
           "position": 3,
           "team": "Scotland",
-          "played": 2,
+          "played": 3,
           "won": 1,
           "draw": 0,
-          "lost": 1,
+          "lost": 2,
           "points": 3,
           "goals_for": 1,
-          "goals_against": 1,
-          "goal_difference": 0
+          "goals_against": 4,
+          "goal_difference": -3
         },
         {
           "position": 4,
           "team": "Haiti",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "draw": 0,
-          "lost": 2,
+          "lost": 3,
           "points": 0,
-          "goals_for": 0,
-          "goals_against": 4,
-          "goal_difference": -4
+          "goals_for": 2,
+          "goals_against": 8,
+          "goal_difference": -6
         }
       ]
     },
