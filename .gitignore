@@ -24,7 +24,9 @@ Thumbs.db
 *.log
 
 # Generated content
-output/
+output/*
+!output/website/
+!output/website/*.md
 
 # Local storage
 storage/*.bak

@@ -1,0 +1,1 @@
+Article generation failed because the AI service was unavailable or the API quota was exceeded. The World Cup Engine continued processing successfully.
