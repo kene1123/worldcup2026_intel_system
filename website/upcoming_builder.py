@@ -5,6 +5,7 @@ from pathlib import Path
 from datetime import datetime
 from collectors.fixtures import fetch_world_cup_fixtures
 from website.templates import build_page
+from utils.country_flags import get_flag
 
 OUTPUT_FILE = Path("public/upcoming.html")
 
@@ -69,14 +70,16 @@ def build_upcoming_page():
   </div>
   <div class="fixture-teams">
     <div class="fixture-team">
-      <div class="fixture-team-name">{home}</div>
+      <div class="fixture-team-name">
+        {get_flag(home)} {home}
+      </div>
     </div>
     <div class="fixture-score">
       {score_html}
       <div class="fixture-time">{date_str}{(' · ' + time_str) if time_str else ''}</div>
     </div>
     <div class="fixture-team">
-      <div class="fixture-team-name">{away}</div>
+      {get_flag(away)} {away}
     </div>
   </div>
 </div>"""

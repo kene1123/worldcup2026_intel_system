@@ -981,3 +981,12 @@ a { color: inherit; }
     transform: translateY(-2px);
     box-shadow: 0 8px 24px rgba(0,0,0,.4);
 }
+
+.country-flag{
+    width:24px;
+    height:18px;
+    margin-right:8px;
+    vertical-align:middle;
+    border-radius:2px;
+    object-fit:cover;
+}

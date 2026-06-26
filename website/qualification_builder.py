@@ -10,6 +10,7 @@ from pathlib import Path
 from collectors.qualification_tracker import get_qualification_status
 from collectors.standings import fetch_world_cup_standings
 from website.templates import build_page
+from utils.country_flags import get_flag
 
 OUTPUT_FILE = Path("public/qualification.html")
 
@@ -65,7 +66,7 @@ def build_qualification_page():
             rows += f"""
 <tr>
   <td><div class="rank-cell">
-    <span class="rank-badge {rank_cls}">{team['position']}</span>{name}
+    <span class="rank-badge {rank_cls}">{team['position']}</span>{get_flag(name)} {name}
   </div></td>
   <td>{team['played']}</td>
   <td>{team['won']}</td>
