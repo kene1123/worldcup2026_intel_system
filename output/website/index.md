@@ -4,6 +4,7 @@ Auto-generated content index.
 
 ## Latest Articles
 
+- Brazil 1-1 Morocco World Cup Match Report
 - Colombia 1-0 Congo DR World Cup Match Report
 - Panama 0-1 Croatia World Cup Match Report
 - Portugal 5-0 Uzbekistan World Cup Match Report
@@ -33,4 +34,3 @@ Auto-generated content index.
 - Netherlands 5-1 Sweden World Cup Match Report
 - Turkey 0-1 Paraguay World Cup Match Report
 - Brazil 3-0 Haiti World Cup Match Report
-- Scotland 0-1 Morocco World Cup Match Report

@@ -35,11 +35,6 @@
     "type": "Preview"
   },
   {
-    "title": "Brazil 1-1 Morocco World Cup Match Report",
-    "url": "articles/Brazil 1-1 Morocco World Cup Match Report.html",
-    "type": "Match Report"
-  },
-  {
     "title": "Brazil 3-0 Haiti World Cup Match Report",
     "url": "articles/Brazil 3-0 Haiti World Cup Match Report.html",
     "type": "Match Report"
@@ -63,6 +58,11 @@
     "title": "Canada vs Qatar",
     "url": "articles/Canada vs Qatar.html",
     "type": "Preview"
+  },
+  {
+    "title": "Colombia 1-0 Congo DR World Cup Match Report",
+    "url": "articles/Colombia 1-0 Congo DR World Cup Match Report.html",
+    "type": "Match Report"
   },
   {
     "title": "Czechia 1-1 South Africa World Cup Match Report",
@@ -202,11 +202,6 @@
   {
     "title": "Portugal 1-1 Congo DR World Cup Match Report",
     "url": "articles/Portugal 1-1 Congo DR World Cup Match Report.html",
-    "type": "Match Report"
-  },
-  {
-    "title": "Portugal 5-0 Uzbekistan World Cup Match Report",
-    "url": "articles/Portugal 5-0 Uzbekistan World Cup Match Report.html",
     "type": "Match Report"
   },
   {
