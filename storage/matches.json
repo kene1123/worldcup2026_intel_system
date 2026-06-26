@@ -652,50 +652,50 @@
     {
       "fixture_id": 537355,
       "date": "2026-06-25T20:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "home_team": "Ecuador",
       "away_team": "Germany",
-      "home_score": null,
-      "away_score": null
+      "home_score": 2,
+      "away_score": 1
     },
     {
       "fixture_id": 537356,
       "date": "2026-06-25T20:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "home_team": "Cura\u00e7ao",
       "away_team": "Ivory Coast",
-      "home_score": null,
-      "away_score": null
+      "home_score": 0,
+      "away_score": 2
     },
     {
       "fixture_id": 537361,
       "date": "2026-06-25T23:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "home_team": "Tunisia",
       "away_team": "Netherlands",
-      "home_score": null,
-      "away_score": null
+      "home_score": 1,
+      "away_score": 3
     },
     {
       "fixture_id": 537362,
       "date": "2026-06-25T23:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "home_team": "Japan",
       "away_team": "Sweden",
-      "home_score": null,
-      "away_score": null
+      "home_score": 1,
+      "away_score": 1
     },
     {
       "fixture_id": 537349,
@@ -1469,50 +1469,50 @@
         {
           "position": 1,
           "team": "Germany",
-          "played": 2,
+          "played": 3,
           "won": 2,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
           "points": 6,
-          "goals_for": 9,
-          "goals_against": 2,
-          "goal_difference": 7
+          "goals_for": 10,
+          "goals_against": 4,
+          "goal_difference": 6
         },
         {
           "position": 2,
           "team": "Ivory Coast",
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "draw": 0,
           "lost": 1,
-          "points": 3,
+          "points": 6,
+          "goals_for": 4,
+          "goals_against": 2,
+          "goal_difference": 2
+        },
+        {
+          "position": 3,
+          "team": "Ecuador",
+          "played": 3,
+          "won": 1,
+          "draw": 1,
+          "lost": 1,
+          "points": 4,
           "goals_for": 2,
           "goals_against": 2,
           "goal_difference": 0
         },
         {
-          "position": 3,
-          "team": "Ecuador",
-          "played": 2,
-          "won": 0,
-          "draw": 1,
-          "lost": 1,
-          "points": 1,
-          "goals_for": 0,
-          "goals_against": 1,
-          "goal_difference": -1
-        },
-        {
           "position": 4,
           "team": "Cura\u00e7ao",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "points": 1,
           "goals_for": 1,
-          "goals_against": 7,
-          "goal_difference": -6
+          "goals_against": 9,
+          "goal_difference": -8
         }
       ]
     },
@@ -1522,50 +1522,50 @@
         {
           "position": 1,
           "team": "Netherlands",
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "draw": 1,
           "lost": 0,
-          "points": 4,
+          "points": 7,
+          "goals_for": 10,
+          "goals_against": 4,
+          "goal_difference": 6
+        },
+        {
+          "position": 2,
+          "team": "Japan",
+          "played": 3,
+          "won": 1,
+          "draw": 2,
+          "lost": 0,
+          "points": 5,
           "goals_for": 7,
           "goals_against": 3,
           "goal_difference": 4
         },
         {
-          "position": 2,
-          "team": "Japan",
-          "played": 2,
-          "won": 1,
-          "draw": 1,
-          "lost": 0,
-          "points": 4,
-          "goals_for": 6,
-          "goals_against": 2,
-          "goal_difference": 4
-        },
-        {
           "position": 3,
           "team": "Sweden",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
-          "points": 3,
-          "goals_for": 6,
-          "goals_against": 6,
+          "points": 4,
+          "goals_for": 7,
+          "goals_against": 7,
           "goal_difference": 0
         },
         {
           "position": 4,
           "team": "Tunisia",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "draw": 0,
-          "lost": 2,
+          "lost": 3,
           "points": 0,
-          "goals_for": 1,
-          "goals_against": 9,
-          "goal_difference": -8
+          "goals_for": 2,
+          "goals_against": 12,
+          "goal_difference": -10
         }
       ]
     },

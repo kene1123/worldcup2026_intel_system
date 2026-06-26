@@ -4,10 +4,10 @@ Auto-generated content index.
 
 ## Latest Articles
 
-- Qatar 1-1 Switzerland World Cup Match Report
 - Colombia 1-0 Congo DR World Cup Match Report
 - Panama 0-1 Croatia World Cup Match Report
 - Portugal 5-0 Uzbekistan World Cup Match Report
+- Qatar 1-1 Switzerland World Cup Match Report
 - United States 4-1 Paraguay World Cup Match Report
 - Canada 1-1 Bosnia-Herzegovina World Cup Match Report
 - South Korea 2-1 Czechia World Cup Match Report
