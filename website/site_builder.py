@@ -32,7 +32,7 @@ def build_article_pages():
             md_content = f.read()
 
         # Skip placeholder stubs
-        if len(md_content.strip()) < 200:
+        if len(md_content.strip()) < 20:
             continue
 
         body_html = markdown.markdown(md_content)
@@ -60,9 +60,24 @@ def _build_articles_index():
     ]
     files.sort(key=lambda f: f.stat().st_mtime, reverse=True)
 
-    reports  = [f for f in files if "Match Report" in f.stem]
-    previews = [f for f in files if "vs" in f.stem or "Preview" in f.stem]
-    previews = [f for f in previews if f not in reports]
+    reports = []
+    previews = []
+
+    for f in files:
+
+        stem = f.stem.lower()
+
+        if (
+            "match report" in stem
+            or "world cup" in stem
+        ):
+            reports.append(f)
+
+        elif (
+            "preview" in stem
+            or " vs " in stem
+        ):
+            previews.append(f)
 
     def card(f, tag_class, label):
         stem = f.stem
