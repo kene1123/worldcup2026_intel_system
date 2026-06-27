@@ -35,3 +35,6 @@ storage/*.bak
 build/
 dist/
 *.egg-info/
+
+storage/processed_rebuilt.json
+processed_repair.py
